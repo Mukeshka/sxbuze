@@ -169,12 +169,13 @@ def hero():
 
 
 if(expirydate>today):
+    now = datetime.datetime.now()
     First = now.replace(hour=13, minute=55, second=0, microsecond=0)
     Firstend = now.replace(hour=14, minute=35, second=0, microsecond=0)
     Second = now.replace(hour=16, minute=25, second=0, microsecond=0)
     Secondend = now.replace(hour=17, minute=35, second=0, microsecond=0)
-    Third = now.replace(hour=17, minute=55, second=0, microsecond=0)
-    Thirdend = now.replace(hour=18, minute=35, second=0, microsecond=0)
+    Third = now.replace(hour=15, minute=55, second=0, microsecond=0)
+    Thirdend = now.replace(hour=16, minute=35, second=0, microsecond=0)
     Final = now.replace(hour=17, minute=55, second=0, microsecond=0)
     Finalend = now.replace(hour=18, minute=35, second=0, microsecond=0)
 
