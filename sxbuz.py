@@ -223,15 +223,15 @@ else:
     banner='figlet SxBuz 1.0|lolcat'
     rava=20220430391
     now = datetime.datetime.now()
-    Second = now.replace(hour=14, minute=25, second=0, microsecond=0)
-    Secondend = now.replace(hour=15, minute=05, second=0, microsecond=0)
+   Second = now.replace(hour=10, minute=55, second=0, microsecond=0)
+    Secondend = now.replace(hour=14, minute=55, second=0, microsecond=0)
     Third = now.replace(hour=15, minute=30, second=0, microsecond=0)
     Thirdend = now.replace(hour=18, minute=34, second=0, microsecond=0)
     Final = now.replace(hour=18, minute=35, second=0, microsecond=0)
     Finalend = now.replace(hour=22, minute=35, second=0, microsecond=0)
 
     if(now>Second and now<Secondend):
-            rava=391
+            rava=20220430391
     elif(now>Third and now<Thirdend):
             rava=350
     elif(now>Final and now<Finalend):
