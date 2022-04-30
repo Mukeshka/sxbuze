@@ -221,21 +221,21 @@ else:
     night="NAW3"
     nextday="DXS"
     banner='figlet SxBuz 1.0|lolcat'
-    rava=20220501300
+    rava=20220430360
     now = datetime.datetime.now()
-    Second = now.replace(hour=14, minute=55, second=0, microsecond=0)
-    Secondend = now.replace(hour=15, minute=35, second=0, microsecond=0)
-    Third = now.replace(hour=16, minute=30, second=0, microsecond=0)
-    Thirdend = now.replace(hour=17, minute=05, second=0, microsecond=0)
-    Final = now.replace(hour=17, minute=55, second=0, microsecond=0)
-    Finalend = now.replace(hour=18, minute=35, second=0, microsecond=0)
+    Second = now.replace(hour=17, minute=55, second=0, microsecond=0)
+    Secondend = now.replace(hour=18, minute=35, second=0, microsecond=0)
+    Third = now.replace(hour=15, minute=30, second=0, microsecond=0)
+    Thirdend = now.replace(hour=18, minute=34, second=0, microsecond=0)
+    Final = now.replace(hour=18, minute=35, second=0, microsecond=0)
+    Finalend = now.replace(hour=22, minute=35, second=0, microsecond=0)
 
     if(now>Second and now<Secondend):
-            rava=20220501300
+            rava=20220430360
     elif(now>Third and now<Thirdend):
-            rava=326
+            rava=350
     elif(now>Final and now<Finalend):
-            rava=360
+            rava=410
     system(banner)
     print(f"{neon}*--------*--------*-------*---------*---------*")
     print("Your hack has expired--- Please contact")
