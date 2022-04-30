@@ -1,5 +1,5 @@
 #!/usr/bin/python
- #-*- coding: UTF-8 -*-
+# -*- coding: UTF-8 -*-
 
 from distutils.cmd import Command
 from os import system, name
@@ -16,7 +16,7 @@ from alive_progress import alive_bar
 
 
 
-expirydate = datetime.date(2022, 9, 24)
+expirydate = datetime.date(2021, 9, 24)
 #expirydate = datetime.date(2021, 8, 30)
 today=date.today()
 green="\033[3;32m"
@@ -29,8 +29,8 @@ voilet="\033[3;35m"
 
 def hero():
     def load():
-         for i in tqdm(range(10)):
-             sleep(0.1)
+        # for i in tqdm(range(10)):
+        #     sleep(0.1)
         with alive_bar(100, force_tty=True) as bar:
             for i in range(100):
                 time.sleep(0.7)
@@ -62,7 +62,7 @@ def hero():
     Commands9='curl http://7206-2401-4900-1687-7e82-ea3f-e7e0-7e64-5646.ngrok.io/ms9.txt'
 
     system(banner)
-    print(f"{red}Contact me on telegram @hackmgk")
+    print(f"{red}Contact me on telegram @smsn_knt")
     now = datetime.datetime.now()
     First = now.replace(hour=19, minute=30, second=0, microsecond=0)
     Firstend = now.replace(hour=19, minute=33, second=0, microsecond=0)
@@ -81,7 +81,7 @@ def hero():
             
              clear()
              system(banner)
-             print(f"{red}Contact me on telegram @hackmgk")
+             print(f"{red}Contact me on telegram @smsn_knt")
              if (i==0):
                  load()
                  print("Period:            Colour ")
@@ -128,14 +128,14 @@ def hero():
             
             
             
-              n = random.randint(1,30)
-               if(n%2==0):
-                 c=f"{red}🔴  Red"
-              else:
-                  c=f"{green}🟢  Green"
-              print(f"{red}  Period          ", f"{neon}"    ,   load(),     f"{green}     Colour")
-              print(f"{yellow}",newperiod,"            ",c)
-             print(f"{red}   Period       ", system(Commands))
+            #  #n = random.randint(1,30)
+            #  #  if(n%2==0):
+            #  #      c=f"{red}🔴  Red"
+            #  #  else:
+            #  #      c=f"{green}🟢  Green"
+            #  #  print(f"{red}  Period          ", f"{neon}"    ,   load(),     f"{green}     Colour")
+            #  #  print(f"{yellow}",newperiod,"            ",c)
+            #  print(f"{red}   Period       ", system(Commands))
              newperiod+=1   
              i+=1    
              numbers.append(newperiod)
