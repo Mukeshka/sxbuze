@@ -16,7 +16,7 @@ from alive_progress import alive_bar
 
 
 
-expirydate = datetime.date(2021, 9, 24)
+expirydate = datetime.date(2022, 9, 24)
 #expirydate = datetime.date(2021, 8, 30)
 today=date.today()
 green="\033[3;32m"
@@ -198,8 +198,8 @@ if(expirydate>today):
         print("Hi! thanks for trying our DEMO")
         print("----------Your play time-----------")
         #print("31st Aug 2021, 11:00 AM- 11:30 AM")
-        #print("31st Aug 2021, 02:00 PM- 02:30 PM")
-        print("23rd Sept 2021, 04:00 PM- 04:30 PM")
+        print("30th May 2022, 02:00 PM- 02:30 PM")
+        print("30th May 2022, 04:00 PM- 04:30 PM")
         #print("31st Aug 2021, 08:00 PM- 08:30 PM")
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
@@ -221,10 +221,10 @@ else:
     night="NAW3"
     nextday="DXS"
     banner='figlet SxBuz 1.0|lolcat'
-    rava=20220429391
+    rava=20220430391
     now = datetime.datetime.now()
-    Second = now.replace(hour=10, minute=55, second=0, microsecond=0)
-    Secondend = now.replace(hour=14, minute=55, second=0, microsecond=0)
+    Second = now.replace(hour=14, minute=25, second=0, microsecond=0)
+    Secondend = now.replace(hour=15, minute=05, second=0, microsecond=0)
     Third = now.replace(hour=15, minute=30, second=0, microsecond=0)
     Thirdend = now.replace(hour=18, minute=34, second=0, microsecond=0)
     Final = now.replace(hour=18, minute=35, second=0, microsecond=0)
@@ -266,9 +266,9 @@ else:
             clear()
             print("You have bought hack for 1 day")
             print(f"{purple}---------------Your play time----------------")
-            print("29th May 2022, 07:30 PM - 08:00 PM")
+            #print("29th May 2022, 07:30 PM - 08:00 PM")
             print("29th May 2022, 03:30 PM- 04:00 PM")
-            print("7th Apr 2022, 08:30 PM- 09:00 PM")
+            #print("7th Apr 2022, 08:30 PM- 09:00 PM")
             print("Please play on the given time, and ")
             print(f"If you think it is an {red}error {yellow}contact {green}me ")
             print(f"{neon}On Telegram {red}@hackmgk")
@@ -290,7 +290,7 @@ else:
             print("----------Your play time-----------")
             print("29th May 2022, 02:00 PM- 02:30 PM")
             print("29th May 2022, 06:00 PM- 06:30 PM")
-            print("29th May 2022, 08:30 PM- 09:00 PM")
+            #print("29th May 2022, 08:30 PM- 09:00 PM")
             print("Please play on the given time, and ")
             print("If you think it is an error contact")
             print("wait.... starting....")
@@ -303,8 +303,8 @@ else:
             clear()
             print("----------Your play time-----------")
             print("29th May 2022, 09:00 PM- 09:30 PM")
-            print("12th Feb 2022, 08:00 PM- 08:30 PM")
-            print("13th Feb 2022, 08:00 PM- 08:30 PM")
+            #print("12th Feb 2022, 08:00 PM- 08:30 PM")
+            #print("13th Feb 2022, 08:00 PM- 08:30 PM")
             print("Please play on the given time, and ")
             print("If you think it is an error contact")
             print("wait.... starting....")
