@@ -127,7 +127,8 @@ def hero():
 
             
             
-           #  #n = random.randint(1,30)
+            
+            #  #n = random.randint(1,30)
             #  #  if(n%2==0):
             #  #      c=f"{red}🔴  Red"
             #  #  else:
@@ -146,7 +147,7 @@ def hero():
                  system('figlet Thank you!!')
                  print("Play on next specified time!!")
                  print("-----------Current Time UP----------")
-                 sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
+                 sys.exit(" \n \n \n Contact on Telegram @hacmgk")
             #print(numbers)
         else:
             clear
@@ -161,7 +162,7 @@ def hero():
     system('figlet Thank you!!')
     print("Play on next specified time!!")
     print("-----------Current Time UP----------")
-    sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
+    sys.exit(" \n \n \n Contact on Telegram @hackmgk")
         #print(numbers)
   
 
@@ -203,7 +204,6 @@ if(expirydate>today):
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
         print(" admin on telegram @hackmgk ")
-
 
 
 else:
