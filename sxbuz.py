@@ -1,5 +1,5 @@
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
+!/usr/bin/python
+ -*- coding: UTF-8 -*-
 
 from distutils.cmd import Command
 from os import system, name
@@ -29,8 +29,8 @@ voilet="\033[3;35m"
 
 def hero():
     def load():
-        # for i in tqdm(range(10)):
-        #     sleep(0.1)
+         for i in tqdm(range(10)):
+             sleep(0.1)
         with alive_bar(100, force_tty=True) as bar:
             for i in range(100):
                 time.sleep(0.7)
@@ -128,14 +128,14 @@ def hero():
             
             
             
-            #  #n = random.randint(1,30)
-            #  #  if(n%2==0):
-            #  #      c=f"{red}🔴  Red"
-            #  #  else:
-            #  #      c=f"{green}🟢  Green"
-            #  #  print(f"{red}  Period          ", f"{neon}"    ,   load(),     f"{green}     Colour")
-            #  #  print(f"{yellow}",newperiod,"            ",c)
-            #  print(f"{red}   Period       ", system(Commands))
+              n = random.randint(1,30)
+               if(n%2==0):
+                 c=f"{red}🔴  Red"
+              else:
+                  c=f"{green}🟢  Green"
+              print(f"{red}  Period          ", f"{neon}"    ,   load(),     f"{green}     Colour")
+              print(f"{yellow}",newperiod,"            ",c)
+             print(f"{red}   Period       ", system(Commands))
              newperiod+=1   
              i+=1    
              numbers.append(newperiod)
@@ -153,17 +153,17 @@ def hero():
             clear
             break
     
-    #y=input("Do you want to play : Press 1 and 0 to exit \n")
-    #if(y==0):
-     #   y=False
-    #if (len(numbers)>11):
+    y=input("Do you want to play : Press 1 and 0 to exit \n")
+    if(y==0):
+        y=False
+    if (len(numbers)>11):
     clear()
     system(banner)
     system('figlet Thank you!!')
     print("Play on next specified time!!")
     print("-----------Current Time UP----------")
     sys.exit(" \n \n \n Contact on Telegram @hackmgk")
-        #print(numbers)
+        print(numbers)
   
 
 
@@ -194,7 +194,7 @@ if(expirydate>today):
     else:
         banner='figlet SxBuz 1.0'
         system(banner)
-        #print(f"{red}"Hi!! Thanks for buying the hack")
+        print(f"{red}"Hi!! Thanks for buying the hack")
         print("Hi! thanks for trying our DEMO")
         print("----------Your play time-----------")
         print("29th May 2022, 11:00 AM- 11:30 AM")
@@ -246,7 +246,7 @@ else:
     #print(" 2.  2500 INR -------  3 Days(90 Games")
     #print(" 2.  5000 INR ------- 7 Days(210 Games")
     print("*---------*----------*-------------*----------*")
-    #print("If you need any discount contact me")
+    print("If you need any discount contact me")
     print("Beware of fraudsters!!!")
     while(True):
         print("My banking name is MUKESH KUMAR")
@@ -269,7 +269,7 @@ else:
             print(f"{purple}---------------Your play time----------------")
             print("29th May 2022, 07:30 PM - 08:00 PM")
             print("29th May 2022, 03:30 PM- 04:00 PM")
-#             print("7th Apr 2022, 08:30 PM- 09:00 PM")
+            print("7th Apr 2022, 08:30 PM- 09:00 PM")
             print("Please play on the given time, and ")
             print(f"If you think it is an {red}error {yellow}contact {green}me ")
             print(f"{neon}On Telegram {red}@hackmgk")
@@ -298,7 +298,7 @@ else:
             time.sleep(20)
             period=rava
             hero()
-            #period("Sorry too many people(>20) using hack in same time ")
+            period("Sorry too many people(>20) using hack in same time ")
             sys.exit(" \n \n \n Contact on Telegram @hackmgk")
         elif(bhai==night):
             clear()
