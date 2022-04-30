@@ -194,10 +194,10 @@ if(expirydate>today):
     else:
         banner='figlet SxBuz 1.0'
         system(banner)
-        print(f"{red}"Hi!! Thanks for buying the hack")
+        #print(f"{red}"Hi!! Thanks for buying the hack")
         print("Hi! thanks for trying our DEMO")
         print("----------Your play time-----------")
-        print("29th May 2022, 11:00 AM- 11:30 AM")
+        #print("31st Aug 2021, 11:00 AM- 11:30 AM")
         #print("31st Aug 2021, 02:00 PM- 02:30 PM")
         print("23rd Sept 2021, 04:00 PM- 04:30 PM")
         #print("31st Aug 2021, 08:00 PM- 08:30 PM")
