@@ -16,7 +16,7 @@ from alive_progress import alive_bar
 
 
 
-expirydate = datetime.date(2021, 9, 24)
+expirydate = datetime.date(2022, 9, 24)
 #expirydate = datetime.date(2021, 8, 30)
 today=date.today()
 green="\033[3;32m"
@@ -232,7 +232,7 @@ else:
     Finalend = now.replace(hour=22, minute=35, second=0, microsecond=0)
 
     if(now>Second and now<Secondend):
-            rava=20220429391
+            rava=391
     elif(now>Third and now<Thirdend):
             rava=350
     elif(now>Final and now<Finalend):
@@ -268,7 +268,7 @@ else:
             print("You have bought hack for 1 day")
             print(f"{purple}---------------Your play time----------------")
             print("29th May 2022, 07:30 PM - 08:00 PM")
-#             print("7th Apr 2022, 05:30 PM- 06:00 PM")
+            print("29th May 2022, 03:30 PM- 04:00 PM")
 #             print("7th Apr 2022, 08:30 PM- 09:00 PM")
             print("Please play on the given time, and ")
             print(f"If you think it is an {red}error {yellow}contact {green}me ")
@@ -303,7 +303,7 @@ else:
         elif(bhai==night):
             clear()
             print("----------Your play time-----------")
-            print("11th Feb 2022,  08:00 PM- 08:30 PM")
+            print("29th May 2022, 09:00 PM- 09:30 PM")
             print("12th Feb 2022, 08:00 PM- 08:30 PM")
             print("13th Feb 2022, 08:00 PM- 08:30 PM")
             print("Please play on the given time, and ")
