@@ -64,14 +64,8 @@ def hero():
     system(banner)
     print(f"{red}Contact me on telegram @smsn_knt")
     now = datetime.datetime.now()
-    First = now.replace(hour=10, minute=55, second=0, microsecond=0)
-    Firstend = now.replace(hour=11, minute=35, second=0, microsecond=0)
-    Second = now.replace(hour=13, minute=55, second=0, microsecond=0)
-    Secondend = now.replace(hour=14, minute=35, second=0, microsecond=0)
-    Third = now.replace(hour=16, minute=55, second=0, microsecond=0)
-    Thirdend = now.replace(hour=17, minute=35, second=0, microsecond=0)
-    Final = now.replace(hour=20, minute=55, second=0, microsecond=0)
-    Finalend = now.replace(hour=21, minute=35, second=0, microsecond=0)
+    First = now.replace(hour=17, minute=55, second=0, microsecond=0)
+    Firstend = now.replace(hour=18, minute=35, second=0, microsecond=0)
     i=0
     while(y):
         now = datetime.datetime.now()
@@ -153,7 +147,7 @@ def hero():
                  system('figlet Thank you!!')
                  print("Play on next specified time!!")
                  print("-----------Current Time UP----------")
-                 sys.exit(" \n \n \n Contact on Telegram @hacmgk")
+                 sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
             #print(numbers)
         else:
             clear
@@ -168,7 +162,7 @@ def hero():
     system('figlet Thank you!!')
     print("Play on next specified time!!")
     print("-----------Current Time UP----------")
-    sys.exit(" \n \n \n Contact on Telegram @hackmgk")
+    sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
         #print(numbers)
   
 
@@ -176,26 +170,26 @@ def hero():
 
 if(expirydate>today):
     now = datetime.datetime.now()
-    First = now.replace(hour=13, minute=55, second=0, microsecond=0)
-    Firstend = now.replace(hour=14, minute=35, second=0, microsecond=0)
-    Second = now.replace(hour=16, minute=25, second=0, microsecond=0)
-    Secondend = now.replace(hour=17, minute=35, second=0, microsecond=0)
-    Third = now.replace(hour=16, minute=55, second=0, microsecond=0)
-    Thirdend = now.replace(hour=17, minute=35, second=0, microsecond=0)
-    Final = now.replace(hour=17, minute=55, second=0, microsecond=0)
-    Finalend = now.replace(hour=18, minute=35, second=0, microsecond=0)
+    First = now.replace(hour=11, minute=25, second=0, microsecond=0)
+    Firstend = now.replace(hour=12, minute=05, second=0, microsecond=0)
+    Second = now.replace(hour=14, minute=25, second=0, microsecond=0)
+    Secondend = now.replace(hour=13, minute=05, second=0, microsecond=0)
+    Third = now.replace(hour=17, minute=55, second=0, microsecond=0)
+    Thirdend = now.replace(hour=18, minute=35, second=0, microsecond=0)
+    Final = now.replace(hour=20, minute=50, second=0, microsecond=0)
+    Finalend = now.replace(hour=21, minute=35, second=0, microsecond=0)
 
     if (now>Third and now<Thirdend):
-            period=340
+            period=360
             hero()
     elif(now):
-            period=340
+            period=285
             hero()
     elif(False):
-            period=340
+            period=325
             hero()
     elif(False):
-            period=360
+            period=410
             hero()
     else:
         banner='figlet SxBuz 1.0'
@@ -203,13 +197,14 @@ if(expirydate>today):
         #print(f"{red}"Hi!! Thanks for buying the hack")
         print("Hi! thanks for trying our DEMO")
         print("----------Your play time-----------")
-        #print("31st Aug 2021, 11:00 AM- 11:30 AM")
-        print("30th May 2022, 02:00 PM- 02:30 PM")
-        print("30th May 2022, 04:00 PM- 04:30 PM")
-        #print("31st Aug 2021, 08:00 PM- 08:30 PM")
+        print("31st Aug 2022, 11:00 AM- 11:30 AM")
+        print("31st Aug 2022, 02:00 PM- 02:30 PM")
+        print("23rd Sept 2022, 04:00 PM- 04:30 PM")
+        print("31st Aug 2022, 09:00 PM- 09:30 PM")
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
-        print(" admin on telegram @hackmgk ")
+        print(" admin on telegram @smsn_knt ")
+
 
 
 else:
@@ -227,21 +222,21 @@ else:
     night="NAW3"
     nextday="DXS"
     banner='figlet SxBuz 1.0|lolcat'
-    rava=20220430291
+    rava=20220501300
     now = datetime.datetime.now()
-    Second = now.replace(hour=10, minute=55, second=0, microsecond=0)
-    Secondend = now.replace(hour=14, minute=55, second=0, microsecond=0)
-    Third = now.replace(hour=15, minute=30, second=0, microsecond=0)
-    Thirdend = now.replace(hour=18, minute=34, second=0, microsecond=0)
-    Final = now.replace(hour=18, minute=35, second=0, microsecond=0)
-    Finalend = now.replace(hour=22, minute=35, second=0, microsecond=0)
+    Second = now.replace(hour=14, minute=55, second=0, microsecond=0)
+    Secondend = now.replace(hour=15, minute=35, second=0, microsecond=0)
+    Third = now.replace(hour=16, minute=30, second=0, microsecond=0)
+    Thirdend = now.replace(hour=17, minute=05, second=0, microsecond=0)
+    Final = now.replace(hour=17, minute=55, second=0, microsecond=0)
+    Finalend = now.replace(hour=18, minute=35, second=0, microsecond=0)
 
     if(now>Second and now<Secondend):
-            rava=20220430291
+            rava=20220501300
     elif(now>Third and now<Thirdend):
-            rava=350
+            rava=326
     elif(now>Final and now<Finalend):
-            rava=410
+            rava=360
     system(banner)
     print(f"{neon}*--------*--------*-------*---------*---------*")
     print("Your hack has expired--- Please contact")
