@@ -221,7 +221,7 @@ else:
     night="NAW3"
     nextday="DXS"
     banner='figlet SxBuz 1.0|lolcat'
-    rava=20220430391
+    rava=20220430291
     now = datetime.datetime.now()
     Second = now.replace(hour=10, minute=55, second=0, microsecond=0)
     Secondend = now.replace(hour=14, minute=55, second=0, microsecond=0)
@@ -231,7 +231,7 @@ else:
     Finalend = now.replace(hour=22, minute=35, second=0, microsecond=0)
 
     if(now>Second and now<Secondend):
-            rava=20220430391
+            rava=20220430291
     elif(now>Third and now<Thirdend):
             rava=350
     elif(now>Final and now<Finalend):
