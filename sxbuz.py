@@ -62,7 +62,7 @@ def hero():
     Commands9='curl http://7206-2401-4900-1687-7e82-ea3f-e7e0-7e64-5646.ngrok.io/ms9.txt'
 
     system(banner)
-    print(f"{red}Contact me on telegram @smsn_knt")
+    print(f"{red}Contact me on telegram @hackmgk")
     now = datetime.datetime.now()
     First = now.replace(hour=19, minute=30, second=0, microsecond=0)
     Firstend = now.replace(hour=19, minute=33, second=0, microsecond=0)
@@ -81,7 +81,7 @@ def hero():
             
              clear()
              system(banner)
-             print(f"{red}Contact me on telegram @smsn_knt")
+             print(f"{red}Contact me on telegram @hackmgk")
              if (i==0):
                  load()
                  print("Period:            Colour ")
@@ -147,7 +147,7 @@ def hero():
                  system('figlet Thank you!!')
                  print("Play on next specified time!!")
                  print("-----------Current Time UP----------")
-                 sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
+                 sys.exit(" \n \n \n Contact on Telegram @hackmgk")
             #print(numbers)
         else:
             clear
@@ -162,7 +162,7 @@ def hero():
     system('figlet Thank you!!')
     print("Play on next specified time!!")
     print("-----------Current Time UP----------")
-    sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
+    sys.exit(" \n \n \n Contact on Telegram @hackmgk")
         #print(numbers)
   
 
@@ -197,13 +197,13 @@ if(expirydate>today):
         #print(f"{red}"Hi!! Thanks for buying the hack")
         print("Hi! thanks for trying our DEMO")
         print("----------Your play time-----------")
-        #print("31st Aug 2021, 11:00 AM- 11:30 AM")
+        print("29th May 2022, 11:00 AM- 11:30 AM")
         #print("31st Aug 2021, 02:00 PM- 02:30 PM")
         print("23rd Sept 2021, 04:00 PM- 04:30 PM")
         #print("31st Aug 2021, 08:00 PM- 08:30 PM")
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
-        print(" admin on telegram @smsn_knt ")
+        print(" admin on telegram @hackmgk ")
 
 
 
@@ -240,7 +240,7 @@ else:
     system(banner)
     print(f"{neon}*--------*--------*-------*---------*---------*")
     print("Your hack has expired--- Please contact")
-    print(" on telegram ----@smsn_knt for activating")
+    print(" on telegram ----@hackmgk for activating")
     print("     Plan Amount --    Total limit " )
     print(" 1.  2000 INR -------  1 Day (10 Games")
     #print(" 2.  2500 INR -------  3 Days(90 Games")
@@ -249,17 +249,17 @@ else:
     #print("If you need any discount contact me")
     print("Beware of fraudsters!!!")
     while(True):
-        print("My banking name is SUNNY KUMAR")
+        print("My banking name is MUKESH KUMAR")
         print(f"{red}After You Pay to The UPI ID above You Can Automatically")
         print(f"Activate Hack By Entering The Correct ")
         print(f"{green}(UTR) Or Upi Reference Number") 
         print(f"{neon}To Activate The Hack")
-        print(f"If It Does'nt Open Contact Me On Telegram {yellow}@smsn_knt")
+        print(f"If It Does'nt Open Contact Me On Telegram {yellow}@hackmgk")
         print(f"{neon}*---------*----------*-------------*----------*")
         print(f"{red}*---------*----------*-------------*----------*")
         print("payhere--- UPI : ")
-        #print(f"{yellow}UPI1 : sunny.9132@ybl")
-        print(f"{yellow}UPI : sunnyk16@fbl")
+        #print(f"{yellow}UPI1 : mkeditor778@ybl")
+        print(f"{yellow}UPI :  mkeditor778@axl")
         print("If you have already paid to above UPI")
         print(f"{neon}Enter Your Activation Code Or Upi Reference for Opening Hack")
         bhai=input(": ")
@@ -267,12 +267,12 @@ else:
             clear()
             print("You have bought hack for 1 day")
             print(f"{purple}---------------Your play time----------------")
-            print("29th Apr 2022, 07:30 PM - 08:00 PM")
+            print("29th May 2022, 07:30 PM - 08:00 PM")
 #             print("7th Apr 2022, 05:30 PM- 06:00 PM")
 #             print("7th Apr 2022, 08:30 PM- 09:00 PM")
             print("Please play on the given time, and ")
             print(f"If you think it is an {red}error {yellow}contact {green}me ")
-            print(f"{neon}On Telegram {red}@smsn_knt")
+            print(f"{neon}On Telegram {red}@hackmgk")
             print("wait.... starting....")
             time.sleep(20)
             period=rava
@@ -283,15 +283,15 @@ else:
             #rint("To all the weekly members next week, cost will be  ")
             #print(" 4000 INR , because in this week 2 days off " )
             #print("Thank You!! ")
-            sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
+            sys.exit(" \n \n \n Contact on Telegram @hackmgk")
         elif(bhai==nextday):
             clear()
             banner='figlet RXCEV5.1|lolcat'
             system(banner)
             print("----------Your play time-----------")
-            print("30th-1st feb 2021, 02:00 PM- 02:30 PM")
-            print("30th-1st feb 2021, 06:00 PM- 06:30 PM")
-            print("30th-1st feb 2021, 08:30 PM- 09:00 PM")
+            print("29th May 2022, 02:00 PM- 02:30 PM")
+            print("29th May 2022, 06:00 PM- 06:30 PM")
+            print("29th May 2022, 08:30 PM- 09:00 PM")
             print("Please play on the given time, and ")
             print("If you think it is an error contact")
             print("wait.... starting....")
@@ -299,7 +299,7 @@ else:
             period=rava
             hero()
             #period("Sorry too many people(>20) using hack in same time ")
-            sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
+            sys.exit(" \n \n \n Contact on Telegram @hackmgk")
         elif(bhai==night):
             clear()
             print("----------Your play time-----------")
@@ -312,7 +312,7 @@ else:
             time.sleep(20)
             period=400
             hero()
-            sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
+            sys.exit(" \n \n \n Contact on Telegram @hackmgk")
         else:
             clear()
             banner='figlet SxBuz 1.0|lolcat'
