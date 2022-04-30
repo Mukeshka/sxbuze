@@ -62,10 +62,10 @@ def hero():
     Commands9='curl http://7206-2401-4900-1687-7e82-ea3f-e7e0-7e64-5646.ngrok.io/ms9.txt'
 
     system(banner)
-    print(f"{red}Contact me on telegram @smsn_knt")
+    print(f"{red}Contact me on telegram @havkmgk")
     now = datetime.datetime.now()
-    First = now.replace(hour=17, minute=55, second=0, microsecond=0)
-    Firstend = now.replace(hour=18, minute=35, second=0, microsecond=0)
+    First = now.replace(hour=19, minute=30, second=0, microsecond=0)
+    Firstend = now.replace(hour=19, minute=33, second=0, microsecond=0)
     i=0
     while(y):
         now = datetime.datetime.now()
@@ -81,7 +81,7 @@ def hero():
             
              clear()
              system(banner)
-             print(f"{red}Contact me on telegram @smsn_knt")
+             print(f"{red}Contact me on telegram @hackmgk")
              if (i==0):
                  load()
                  print("Period:            Colour ")
@@ -147,7 +147,7 @@ def hero():
                  system('figlet Thank you!!')
                  print("Play on next specified time!!")
                  print("-----------Current Time UP----------")
-                 sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
+                 sys.exit(" \n \n \n Contact on Telegram @hackmgk")
             #print(numbers)
         else:
             clear
@@ -162,7 +162,7 @@ def hero():
     system('figlet Thank you!!')
     print("Play on next specified time!!")
     print("-----------Current Time UP----------")
-    sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
+    sys.exit(" \n \n \n Contact on Telegram @hackmgk")
         #print(numbers)
   
 
@@ -180,16 +180,16 @@ if(expirydate>today):
     Finalend = now.replace(hour=18, minute=35, second=0, microsecond=0)
 
     if (now>Third and now<Thirdend):
-            period=360
+            period=320
             hero()
     elif(now):
-            period=285
+            period=340
             hero()
     elif(False):
-            period=325
+            period=340
             hero()
     elif(False):
-            period=410
+            period=360
             hero()
     else:
         banner='figlet SxBuz 1.0'
@@ -200,10 +200,10 @@ if(expirydate>today):
         print("31st Aug 2022, 11:00 AM- 11:30 AM")
         print("31st Aug 2022, 02:00 PM- 02:30 PM")
         print("23rd Sept 2022, 04:00 PM- 04:30 PM")
-        print("31st Aug 2022, 09:00 PM- 09:30 PM")
+        print("31st Aug 2022, 08:00 PM- 08:30 PM")
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
-        print(" admin on telegram @smsn_knt ")
+        print(" admin on telegram @hackmgk ")
 
 
 
@@ -222,17 +222,17 @@ else:
     night="NAW3"
     nextday="DXS"
     banner='figlet SxBuz 1.0|lolcat'
-    rava=20220430360
+    rava=20220430391
     now = datetime.datetime.now()
-    Second = now.replace(hour=17, minute=55, second=0, microsecond=0)
-    Secondend = now.replace(hour=18, minute=35, second=0, microsecond=0)
-    Third = now.replace(hour=15, minute=30, second=0, microsecond=0)
-    Thirdend = now.replace(hour=18, minute=34, second=0, microsecond=0)
-    Final = now.replace(hour=18, minute=35, second=0, microsecond=0)
-    Finalend = now.replace(hour=22, minute=35, second=0, microsecond=0)
+    Second = now.replace(hour=19, minute=55, second=0, microsecond=0)
+    Secondend = now.replace(hour=19, minute=35, second=0, microsecond=0)
+    Third = now.replace(hour=17, minute=50, second=0, microsecond=0)
+    Thirdend = now.replace(hour=18, minute=35, second=0, microsecond=0)
+    Final = now.replace(hour=20, minute=50, second=0, microsecond=0)
+    Finalend = now.replace(hour=21, minute=35, second=0, microsecond=0)
 
     if(now>Second and now<Secondend):
-            rava=20220430360
+            rava=20220430391
     elif(now>Third and now<Thirdend):
             rava=350
     elif(now>Final and now<Finalend):
@@ -246,7 +246,7 @@ else:
     #print(" 2.  2500 INR -------  3 Days(90 Games")
     #print(" 2.  5000 INR ------- 7 Days(210 Games")
     print("*---------*----------*-------------*----------*")
-    print("If you need any discount contact me")
+    #print("If you need any discount contact me")
     print("Beware of fraudsters!!!")
     while(True):
         print("My banking name is MUKESH KUMAR")
