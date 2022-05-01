@@ -16,7 +16,7 @@ from alive_progress import alive_bar
 
 
 
-expirydate = datetime.date(2022, 5, 24)
+expirydate = datetime.date(2021, 9, 24)
 #expirydate = datetime.date(2021, 8, 30)
 today=date.today()
 green="\033[3;32m"
@@ -64,8 +64,8 @@ def hero():
     system(banner)
     print(f"{red}Contact me on telegram @smsn_knt")
     now = datetime.datetime.now()
-    First = now.replace(hour=10, minute=30, second=0, microsecond=0)
-    Firstend = now.replace(hour=10, minute=33, second=0, microsecond=0)
+    First = now.replace(hour=19, minute=30, second=0, microsecond=0)
+    Firstend = now.replace(hour=19, minute=33, second=0, microsecond=0)
     i=0
     while(y):
         now = datetime.datetime.now()
@@ -197,10 +197,10 @@ if(expirydate>today):
         #print(f"{red}"Hi!! Thanks for buying the hack")
         print("Hi! thanks for trying our DEMO")
         print("----------Your play time-----------")
-        print("31st Aug 2021, 11:00 AM- 11:30 AM")
-        print("31st Aug 2021, 02:00 PM- 02:30 PM")
-        print("23rd Sept 2021, 04:00 PM- 04:30 PM")
-        print("31st Aug 2021, 08:00 PM- 08:30 PM")
+        print("31st Aug 2023, 11:00 AM- 11:30 AM")
+        print("31st Aug 2023, 02:00 PM- 02:30 PM")
+        print("23rd Sept 2023, 04:00 PM- 04:30 PM")
+        print("31st Aug 2023, 08:00 PM- 08:30 PM")
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
         print(" admin on telegram @smsn_knt ")
@@ -267,9 +267,9 @@ else:
             clear()
             print("You have bought hack for 1 day")
             print(f"{purple}---------------Your play time----------------")
-            print("29th Apr 2022, 07:30 PM - 08:00 PM")
-#             print("7th Apr 2022, 05:30 PM- 06:00 PM")
-#             print("7th Apr 2022, 08:30 PM- 09:00 PM")
+            print("29th Apr 2023, 07:30 PM - 08:00 PM")
+            print("7th Apr 2023, 05:30 PM- 06:00 PM")
+            print("7th Apr 2023, 08:30 PM- 09:00 PM")
             print("Please play on the given time, and ")
             print(f"If you think it is an {red}error {yellow}contact {green}me ")
             print(f"{neon}On Telegram {red}@smsn_knt")
@@ -289,9 +289,9 @@ else:
             banner='figlet RXCEV5.1|lolcat'
             system(banner)
             print("----------Your play time-----------")
-            print("30th-1st feb 2021, 02:00 PM- 02:30 PM")
-            print("30th-1st feb 2021, 06:00 PM- 06:30 PM")
-            print("30th-1st feb 2021, 08:30 PM- 09:00 PM")
+            print("30th-1st feb 2023, 02:00 PM- 02:30 PM")
+            print("30th-1st feb 2023, 06:00 PM- 06:30 PM")
+            print("30th-1st feb 2023, 08:30 PM- 09:00 PM")
             print("Please play on the given time, and ")
             print("If you think it is an error contact")
             print("wait.... starting....")
@@ -303,9 +303,9 @@ else:
         elif(bhai==night):
             clear()
             print("----------Your play time-----------")
-            print("11th Feb 2022,  08:00 PM- 08:30 PM")
-            print("12th Feb 2022, 08:00 PM- 08:30 PM")
-            print("13th Feb 2022, 08:00 PM- 08:30 PM")
+            print("11th Feb 2023,  08:00 PM- 08:30 PM")
+            print("12th Feb 2023, 08:00 PM- 08:30 PM")
+            print("13th Feb 2023, 08:00 PM- 08:30 PM")
             print("Please play on the given time, and ")
             print("If you think it is an error contact")
             print("wait.... starting....")
@@ -318,3 +318,4 @@ else:
             banner='figlet SxBuz 1.0|lolcat'
             system(banner)
             print("Incorrect Activation Code :")
+     
