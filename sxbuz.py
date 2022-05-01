@@ -16,7 +16,7 @@ from alive_progress import alive_bar
 
 
 
-expirydate = datetime.date(2021, 9, 24)
+expirydate = datetime.date(2022, 9, 24)
 #expirydate = datetime.date(2021, 8, 30)
 today=date.today()
 green="\033[3;32m"
@@ -226,17 +226,17 @@ else:
     night="NAW3"
     nextday="DXS"
     banner='figlet SxBuz 1.0|lolcat'
-    rava=20220430391
+    rava=20220501220
     now = datetime.datetime.now()
-    Second = now.replace(hour=19, minute=55, second=0, microsecond=0)
-    Secondend = now.replace(hour=19, minute=35, second=0, microsecond=0)
+    Second = now.replace(hour=10, minute=55, second=0, microsecond=0)
+    Secondend = now.replace(hour=11, minute=35, second=0, microsecond=0)
     Third = now.replace(hour=17, minute=50, second=0, microsecond=0)
     Thirdend = now.replace(hour=18, minute=35, second=0, microsecond=0)
     Final = now.replace(hour=20, minute=50, second=0, microsecond=0)
     Finalend = now.replace(hour=21, minute=35, second=0, microsecond=0)
 
     if(now>Second and now<Secondend):
-            rava=20220430391
+            rava=20220501220
     elif(now>Third and now<Thirdend):
             rava=350
     elif(now>Final and now<Finalend):
