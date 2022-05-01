@@ -267,7 +267,7 @@ else:
             clear()
             print("You have bought hack for 1 day")
             print(f"{purple}---------------Your play time----------------")
-            print("2nd May 2022, 02:30 PM - 03:00 PM")
+            print("2nd May 2022, 05:30 PM - 06:00 PM")
 #             print("7th Apr 2022, 05:30 PM- 06:00 PM")
 #             print("7th Apr 2022, 08:30 PM- 09:00 PM")
             print("Please play on the given time, and ")
