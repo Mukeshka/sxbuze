@@ -30,7 +30,7 @@ voilet="\033[3;35m"
 def hero():
     def load():
         # for i in tqdm(range(10)):
-         #    sleep(0.1)
+        #     sleep(0.1)
         with alive_bar(100, force_tty=True) as bar:
             for i in range(100):
                 time.sleep(0.7)
@@ -64,7 +64,7 @@ def hero():
     system(banner)
     print(f"{red}Contact me on telegram @smsn_knt")
     now = datetime.datetime.now()
-    First = now.replace(hour=10, minute=05, second=0, microsecond=0)
+    First = now.replace(hour=19, minute=30, second=0, microsecond=0)
     Firstend = now.replace(hour=19, minute=33, second=0, microsecond=0)
     i=0
     while(y):
@@ -128,14 +128,14 @@ def hero():
             
             
             
-            #  #n = random.randint(1,30)
-            #  #  if(n%2==0):
-            #  #      c=f"{red}🔴  Red"
-            #  #  else:
-            #  #      c=f"{green}🟢  Green"
-            #  #  print(f"{red}  Period          ", f"{neon}"    ,   load(),     f"{green}     Colour")
-            #  #  print(f"{yellow}",newperiod,"            ",c)
-            #  print(f"{red}   Period       ", system(Commands))
+           n = random.randint(1,30)
+               if(n%2==0):
+               c=f"{red}🔴  Red"
+            else:
+                c=f"{green}🟢  Green"
+             print(f"{red}  Period          ", f"{neon}"    ,   load(),     f"{green}     Colour")
+            print(f"{yellow}",newperiod,"            ",c)
+            print(f"{red}   Period       ", system(Commands))
              newperiod+=1   
              i+=1    
              numbers.append(newperiod)
@@ -148,15 +148,15 @@ def hero():
                  print("Play on next specified time!!")
                  print("-----------Current Time UP----------")
                  sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
-            #print(numbers)
+                #print(numbers)
         else:
             clear
             break
     
-    #y=input("Do you want to play : Press 1 and 0 to exit \n")
-    #if(y==0):
-     #   y=False
-    #if (len(numbers)>11):
+    y=input("Do you want to play : Press 1 and 0 to exit \n")
+    if(y==0):
+        y=False
+    if (len(numbers)>11):
     clear()
     system(banner)
     system('figlet Thank you!!')
@@ -197,10 +197,10 @@ if(expirydate>today):
         #print(f"{red}"Hi!! Thanks for buying the hack")
         print("Hi! thanks for trying our DEMO")
         print("----------Your play time-----------")
-        #print("31st Aug 2021, 11:00 AM- 11:30 AM")
-        #print("31st Aug 2021, 02:00 PM- 02:30 PM")
-        print("23rd Sept 2021, 04:00 PM- 04:30 PM")
-        #print("31st Aug 2021, 08:00 PM- 08:30 PM")
+        print("31st Aug 2022, 11:00 AM- 11:30 AM")
+        print("31st Aug 2022, 02:00 PM- 02:30 PM")
+        print("23rd Sept 2022, 04:00 PM- 04:30 PM")
+        print("31st Aug 2022, 08:00 PM- 08:30 PM")
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
         print(" admin on telegram @smsn_knt ")
@@ -267,9 +267,9 @@ else:
             clear()
             print("You have bought hack for 1 day")
             print(f"{purple}---------------Your play time----------------")
-            print("29th Apr 2022, 07:30 PM - 08:00 PM")
-#             print("7th Apr 2022, 05:30 PM- 06:00 PM")
-#             print("7th Apr 2022, 08:30 PM- 09:00 PM")
+            print("29th Aug 2022, 07:30 PM - 08:00 PM")
+#             print("7th Aug 2022, 05:30 PM- 06:00 PM")
+#             print("7th Aug 2022, 08:30 PM- 09:00 PM")
             print("Please play on the given time, and ")
             print(f"If you think it is an {red}error {yellow}contact {green}me ")
             print(f"{neon}On Telegram {red}@smsn_knt")
@@ -289,9 +289,9 @@ else:
             banner='figlet RXCEV5.1|lolcat'
             system(banner)
             print("----------Your play time-----------")
-            print("30th-1st feb 2021, 02:00 PM- 02:30 PM")
-            print("30th-1st feb 2021, 06:00 PM- 06:30 PM")
-            print("30th-1st feb 2021, 08:30 PM- 09:00 PM")
+            print("30th Aug 2022, 02:00 PM- 02:30 PM")
+            print("30th Aug 2022, 06:00 PM- 06:30 PM")
+            print("30th Aug 2022, 08:30 PM- 09:00 PM")
             print("Please play on the given time, and ")
             print("If you think it is an error contact")
             print("wait.... starting....")
@@ -303,9 +303,9 @@ else:
         elif(bhai==night):
             clear()
             print("----------Your play time-----------")
-            print("11th Feb 2022,  08:00 PM- 08:30 PM")
-            print("12th Feb 2022, 08:00 PM- 08:30 PM")
-            print("13th Feb 2022, 08:00 PM- 08:30 PM")
+            print("11th Aug 2022,  08:00 PM- 08:30 PM")
+            print("12th Aug 2022, 08:00 PM- 08:30 PM")
+            print("13th Aug 2022, 08:00 PM- 08:30 PM")
             print("Please play on the given time, and ")
             print("If you think it is an error contact")
             print("wait.... starting....")
