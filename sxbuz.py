@@ -16,7 +16,7 @@ from alive_progress import alive_bar
 
 
 
-expirydate = datetime.date(2022, 9, 24)
+expirydate = datetime.date(2021, 9, 24)
 #expirydate = datetime.date(2021, 8, 30)
 today=date.today()
 green="\033[3;32m"
@@ -62,10 +62,10 @@ def hero():
     Commands9='curl http://7206-2401-4900-1687-7e82-ea3f-e7e0-7e64-5646.ngrok.io/ms9.txt'
 
     system(banner)
-    print(f"{red}Contact me on telegram @havkmgk")
+    print(f"{red}Contact me on telegram @smsn_knt")
     now = datetime.datetime.now()
-    First = now.replace(hour=10, minute=55, second=0, microsecond=0)
-    Firstend = now.replace(hour=11, minute=35, second=0, microsecond=0)
+    First = now.replace(hour=19, minute=30, second=0, microsecond=0)
+    Firstend = now.replace(hour=19, minute=33, second=0, microsecond=0)
     i=0
     while(y):
         now = datetime.datetime.now()
@@ -81,7 +81,7 @@ def hero():
             
              clear()
              system(banner)
-             print(f"{red}Contact me on telegram @hackmgk")
+             print(f"{red}Contact me on telegram @smsn_knt")
              if (i==0):
                  load()
                  print("Period:            Colour ")
