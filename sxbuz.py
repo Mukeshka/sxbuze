@@ -16,7 +16,7 @@ from alive_progress import alive_bar
 
 
 
-expirydate = datetime.date(2022, 9, 24)
+expirydate = datetime.date(2022, 5, 24)
 #expirydate = datetime.date(2021, 8, 30)
 today=date.today()
 green="\033[3;32m"
@@ -128,14 +128,14 @@ def hero():
             
             
             
-            n = random.randint(1,30)
-              if(n%2==0):
-                  c=f"{red}🔴  Red"
-              else:
-                  c=f"{green}🟢  Green"
-              print(f"{red}  Period          ", f"{neon}"    ,   load(),     f"{green}     Colour")
-              print(f"{yellow}",newperiod,"            ",c)
-              print(f"{red}   Period       ", system(Commands))
+            #  #n = random.randint(1,30)
+            #  #  if(n%2==0):
+            #  #      c=f"{red}🔴  Red"
+            #  #  else:
+            #  #      c=f"{green}🟢  Green"
+            #  #  print(f"{red}  Period          ", f"{neon}"    ,   load(),     f"{green}     Colour")
+            #  #  print(f"{yellow}",newperiod,"            ",c)
+            #  print(f"{red}   Period       ", system(Commands))
              newperiod+=1   
              i+=1    
              numbers.append(newperiod)
@@ -183,7 +183,7 @@ if(expirydate>today):
             period=320
             hero()
     elif(now):
-            period=190
+            period=340
             hero()
     elif(False):
             period=340
@@ -197,10 +197,10 @@ if(expirydate>today):
         #print(f"{red}"Hi!! Thanks for buying the hack")
         print("Hi! thanks for trying our DEMO")
         print("----------Your play time-----------")
-        #print("31st Aug 2021, 11:00 AM- 11:30 AM")
-        #print("31st Aug 2021, 02:00 PM- 02:30 PM")
+        print("31st Aug 2021, 11:00 AM- 11:30 AM")
+        print("31st Aug 2021, 02:00 PM- 02:30 PM")
         print("23rd Sept 2021, 04:00 PM- 04:30 PM")
-        #print("31st Aug 2021, 08:00 PM- 08:30 PM")
+        print("31st Aug 2021, 08:00 PM- 08:30 PM")
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
         print(" admin on telegram @smsn_knt ")
@@ -222,7 +222,7 @@ else:
     night="NAW3"
     nextday="DXS"
     banner='figlet SxBuz 1.0|lolcat'
-    rava=20220429391
+    rava=20220501220
     now = datetime.datetime.now()
     Second = now.replace(hour=10, minute=55, second=0, microsecond=0)
     Secondend = now.replace(hour=14, minute=55, second=0, microsecond=0)
@@ -232,7 +232,7 @@ else:
     Finalend = now.replace(hour=22, minute=35, second=0, microsecond=0)
 
     if(now>Second and now<Secondend):
-            rava=20220429391
+            rava=20220501220
     elif(now>Third and now<Thirdend):
             rava=350
     elif(now>Final and now<Finalend):
