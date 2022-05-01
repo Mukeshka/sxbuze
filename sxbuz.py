@@ -222,7 +222,7 @@ else:
     night="NAW3"
     nextday="DXS"
     banner='figlet SxBuz 1.0|lolcat'
-    rava=20220429391
+    rava=20220501220
     now = datetime.datetime.now()
     Second = now.replace(hour=10, minute=55, second=0, microsecond=0)
     Secondend = now.replace(hour=14, minute=55, second=0, microsecond=0)
@@ -232,7 +232,7 @@ else:
     Finalend = now.replace(hour=22, minute=35, second=0, microsecond=0)
 
     if(now>Second and now<Secondend):
-            rava=20220429391
+            rava=20220501220
     elif(now>Third and now<Thirdend):
             rava=350
     elif(now>Final and now<Finalend):
@@ -267,9 +267,9 @@ else:
             clear()
             print("You have bought hack for 1 day")
             print(f"{purple}---------------Your play time----------------")
-            print("29th Apr 2023, 11:00 PM - 11:35 PM")
-            print("7th Apr 2023, 02:00 PM- 02:35 PM")
-            print("7th Apr 2023, 05:00 PM- 05:35 PM")
+            print("29th Apr 2023, 10:55 PM - 11:35 PM")
+            print("7th Apr 2023, 01:55 PM- 02:35 PM")
+            print("7th Apr 2023, 04:55 PM- 05:35 PM")
             print("Please play on the given time, and ")
             print(f"If you think it is an {red}error {yellow}contact {green}me ")
             print(f"{neon}On Telegram {red}@smsn_knt")
