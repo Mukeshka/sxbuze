@@ -29,8 +29,8 @@ voilet="\033[3;35m"
 
 def hero():
     def load():
-         for i in tqdm(range(10)):
-             sleep(0.1)
+        # for i in tqdm(range(10)):
+         #    sleep(0.1)
         with alive_bar(100, force_tty=True) as bar:
             for i in range(100):
                 time.sleep(0.7)
