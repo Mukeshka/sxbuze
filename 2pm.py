@@ -64,8 +64,8 @@ def hero():
     system(banner)
     print(f"{red}Contact me on telegram @smsn_knt")
     now = datetime.datetime.now()
-    First = now.replace(hour=19, minute=30, second=0, microsecond=0)
-    Firstend = now.replace(hour=19, minute=33, second=0, microsecond=0)
+    First = now.replace(hour=14, minute=30, second=0, microsecond=0)
+    Firstend = now.replace(hour=14, minute=33, second=0, microsecond=0)
     i=0
     while(y):
         now = datetime.datetime.now()
@@ -267,7 +267,7 @@ else:
             clear()
             print("You have bought hack for 1 day")
             print(f"{purple}---------------Your play time----------------")
-            print("29th Apr 2022, 07:30 PM - 08:00 PM")
+            print("2nd May 2022, 02:30 PM - 03:00 PM")
 #             print("7th Apr 2022, 05:30 PM- 06:00 PM")
 #             print("7th Apr 2022, 08:30 PM- 09:00 PM")
             print("Please play on the given time, and ")
