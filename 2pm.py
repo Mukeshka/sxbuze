@@ -128,8 +128,8 @@ def hero():
             
             
             
-            n = random.randint(1,30)
-              if(n%2==0):
+            # # n = random.randint(1,30)
+            # #  if(n%2==0):
                   c=f"{red}🔴  Red"
               else:
                   c=f"{green}🟢  Green"
