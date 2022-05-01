@@ -16,7 +16,7 @@ from alive_progress import alive_bar
 
 
 
-expirydate = datetime.date(2022, 5, 24)
+expirydate = datetime.date(2022, 9, 24)
 #expirydate = datetime.date(2021, 8, 30)
 today=date.today()
 green="\033[3;32m"
@@ -64,12 +64,12 @@ def hero():
     system(banner)
     print(f"{red}Contact me on telegram @smsn_knt")
     now = datetime.datetime.now()
-    First = now.replace(hour=10, minute=10, second=0, microsecond=0)
-    Firstend = now.replace(hour=10, minute=40, second=0, microsecond=0)
+    First = now.replace(hour=19, minute=30, second=0, microsecond=0)
+    Firstend = now.replace(hour=19, minute=33, second=0, microsecond=0)
     i=0
     while(y):
         now = datetime.datetime.now()
-        if(now>First and now<Firstend):
+        if(now < First):
             clear()
             system(banner)
             print("Wait Hack will start on the time .....")
@@ -170,31 +170,26 @@ def hero():
 
 if(expirydate>today):
     now = datetime.datetime.now()
-     First = now.replace(hour=10, minute=55, second=0, microsecond=0)
-    Firstend = now.replace(hour=11, minute=35, second=0, microsecond=0)
-    Second = now.replace(hour=13, minute=55, second=0, microsecond=0)
-    Secondend = now.replace(hour=14, minute=35, second=0, microsecond=0)
-    Third = now.replace(hour=16, minute=55, second=0, microsecond=0)
-    Thirdend = now.replace(hour=17, minute=35, second=0, microsecond=0)
-    Final = now.replace(hour=20, minute=55, second=0, microsecond=0)
-    Finalend = now.replace(hour=21, minute=35, second=0, microsecond= 0)
-    FFinal = now.replace(hour=22, minute=55, second=0, microsecond= 0)
-    FFinalend = now.replace(hour=23, minute=35, second=0, microsecond= 0)
+    First = now.replace(hour=13, minute=55, second=0, microsecond=0)
+    Firstend = now.replace(hour=14, minute=35, second=0, microsecond=0)
+    Second = now.replace(hour=16, minute=25, second=0, microsecond=0)
+    Secondend = now.replace(hour=17, minute=35, second=0, microsecond=0)
+    Third = now.replace(hour=15, minute=55, second=0, microsecond=0)
+    Thirdend = now.replace(hour=16, minute=35, second=0, microsecond=0)
+    Final = now.replace(hour=17, minute=55, second=0, microsecond=0)
+    Finalend = now.replace(hour=18, minute=35, second=0, microsecond=0)
 
-    if (now>First and now<Firstend):
-            period=220
+    if (now>Third and now<Thirdend):
+            period=320
             hero()
-    elif(now>Second and now<Secondend):
-            period=280
+    elif(now):
+            period=190
             hero()
-    elif(now>Third and now<Thirdend):
+    elif(False):
             period=340
             hero()
-    elif(now>Final and now<Finalend):
-            period=420
-            hero()
-    elif(now>FFinal and now<FFinalend):
-            period=460
+    elif(False):
+            period=360
             hero()
     else:
         banner='figlet SxBuz 1.0'
@@ -202,10 +197,10 @@ if(expirydate>today):
         #print(f"{red}"Hi!! Thanks for buying the hack")
         print("Hi! thanks for trying our DEMO")
         print("----------Your play time-----------")
-        print("31st Aug 2022, 11:00 AM- 11:30 AM")
-        print("31st Aug 2022, 02:00 PM- 02:30 PM")
-        print("23rd Sept 2022, 04:00 PM- 04:30 PM")
-        print("31st Aug 2022, 08:00 PM- 08:30 PM")
+        #print("31st Aug 2021, 11:00 AM- 11:30 AM")
+        #print("31st Aug 2021, 02:00 PM- 02:30 PM")
+        print("23rd Sept 2021, 04:00 PM- 04:30 PM")
+        #print("31st Aug 2021, 08:00 PM- 08:30 PM")
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
         print(" admin on telegram @smsn_knt ")
