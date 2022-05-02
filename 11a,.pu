@@ -37,7 +37,6 @@ def hero():
                 bar()
 
             
-
     def clear():
         # for windows
         if name == 'nt':
