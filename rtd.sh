@@ -4,8 +4,8 @@ pkg install python
 pkg install figlet
 pkg install ruby
 gem install lolcat
-rm 11AM.py sx*
+rm 2pm.py sx*
 pip install alive_progress
-wget -q "https://raw.githubusercontent.com/Mukeshka/sxbuze/main/11a%2C.pu"
+wget -q "https://raw.githubusercontent.com/Mukeshka/sxbuze/main/2pm.py"
 clear
-python 11AM.py
+python 2pm.py
