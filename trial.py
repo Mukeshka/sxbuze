@@ -48,24 +48,24 @@ def hero():
     clear()
     y=1
     newperiod=period
-    banner='figlet SxBuz 1.0|lolcat'
+    banner='figlet RXCE 5.2|lolcat'
     numbers=[]
-    Commands='curl http://0839-103-77-43-0.ngrok.io/ms.txt'
-    Commands1='curl http://0839-103-77-43-0.ngrok.io/ms1.txt'
-    Commands2='curl http://0839-103-77-43-0.ngrok.io/ms2.txt'
-    Commands3='curl http://0839-103-77-43-0.ngrok.io/ms3.txt'
-    Commands4='curl http://0839-103-77-43-0.ngrok.io/ms4.txt'
-    Commands5='curl http://0839-103-77-43-0.ngrok.io/ms5.txt'
-    Commands6='curl http://0839-103-77-43-0.ngrok.io/ms6.txt'
-    Commands7='curl http://0839-103-77-43-0.ngrok.io/ms7.txt'
-    Commands8='curl http://0839-103-77-43-0.ngrok.io/ms8.txt'
-    Commands9='curl http://0839-103-77-43-0.ngrok.io/ms9.txt'
+    Commands='curl http://7206-2401-4900-1687-7e82-ea3f-e7e0-7e64-5646.ngrok.io/ms.txt'
+    Commands1='curl http://7206-2401-4900-1687-7e82-ea3f-e7e0-7e64-5646.ngrok.io/ms1.txt'
+    Commands2='curl http://7206-2401-4900-1687-7e82-ea3f-e7e0-7e64-5646.ngrok.io/ms2.txt'
+    Commands3='curl http://7206-2401-4900-1687-7e82-ea3f-e7e0-7e64-5646.ngrok.io/ms3.txt'
+    Commands4='curl http://7206-2401-4900-1687-7e82-ea3f-e7e0-7e64-5646.ngrok.io/ms4.txt'
+    Commands5='curl http://7206-2401-4900-1687-7e82-ea3f-e7e0-7e64-5646.ngrok.io/ms5.txt'
+    Commands6='curl http://7206-2401-4900-1687-7e82-ea3f-e7e0-7e64-5646.ngrok.io/ms6.txt'
+    Commands7='curl http://7206-2401-4900-1687-7e82-ea3f-e7e0-7e64-5646.ngrok.io/ms7.txt'
+    Commands8='curl http://7206-2401-4900-1687-7e82-ea3f-e7e0-7e64-5646.ngrok.io/ms8.txt'
+    Commands9='curl http://7206-2401-4900-1687-7e82-ea3f-e7e0-7e64-5646.ngrok.io/ms9.txt'
 
     system(banner)
     print(f"{red}Contact me on telegram @smsn_knt")
     now = datetime.datetime.now()
-    First = now.replace(hour=16, minute=30, second=0, microsecond=0)
-    Firstend = now.replace(hour=16, minute=33, second=0, microsecond=0)
+    First = now.replace(hour=19, minute=30, second=0, microsecond=0)
+    Firstend = now.replace(hour=19, minute=33, second=0, microsecond=0)
     i=0
     while(y):
         now = datetime.datetime.now()
@@ -192,7 +192,7 @@ if(expirydate>today):
             period=360
             hero()
     else:
-        banner='figlet SxBuz 1.0'
+        banner='figlet RXCE 5.2'
         system(banner)
         #print(f"{red}"Hi!! Thanks for buying the hack")
         print("Hi! thanks for trying our DEMO")
@@ -215,13 +215,13 @@ else:
         # for mac and linux(here, os.name is 'posix')
         else:
             _ = system('clear')
-    code="SDXA21"
-    code1="BMW3"
+    code="QSCFT671"
+    code1="BXMKMF3"
     code2="AFA6"
     test="SASCX3"
     night="NAW3"
     nextday="DXS"
-    banner='figlet SxBuz 1.0|lolcat'
+    banner='figlet RXCE 5.2|lolcat'
     rava=20220501391
     now = datetime.datetime.now()
     Second = now.replace(hour=10, minute=55, second=0, microsecond=0)
@@ -242,9 +242,9 @@ else:
     print("Your hack has expired--- Please contact")
     print(" on telegram ----@smsn_knt for activating")
     print("     Plan Amount --    Total limit " )
-    print(" 1.  1500 INR -------  1 Day (20 Games")
-    print(" 2.  2500 INR -------  3 Days(60 Games")
-    print(" 2.  5000 INR -------  7 Days(140 Games")
+    print(" 1.  1000 INR -------  1 Day (30 Games")
+    print(" 2.  2500 INR -------  3 Days(90 Games")
+    print(" 2.  5000 INR -------  7 Days(210 Games")
     print("*---------*----------*-------------*----------*")
     #print("If you need any discount contact me")
     print("Beware of fraudsters!!!")
@@ -267,11 +267,11 @@ else:
             clear()
             print("You have bought hack for 1 day")
             print(f"{purple}---------------Your play time----------------")
-            print("19th may 2022, 04:30 PM - 03:00 PM")
-            print("19th Apr 2022, 06:30 PM - 07:00 PM")
+            print("19th May 2022, 02:30 PM - 03:00 PM")
+            print("19th May 2022, 05:30 PM- 06:00 PM")
+            print("19th May 2022, 08:30 PM- 09:00 PM")
             print("--------*ASK YOUR TIME FROM ME*--------")
             print("--------This time will not work--------")
-#             print("7th Apr 2022, 08:30 PM- 09:00 PM")
             print("Please play on the gi8en time, and ")
             print(f"If you think it is an {red}error {yellow}contact {green}me ")
             print(f"{neon}On Telegram {red}@smsn_knt")
@@ -317,7 +317,7 @@ else:
             sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
         else:
             clear()
-            banner='figlet SxBuz 1.0|lolcat'
+            banner='figlet RXCE 5.2|lolcat'
             system(banner)
             print("Incorrect Activation Code :")
      
